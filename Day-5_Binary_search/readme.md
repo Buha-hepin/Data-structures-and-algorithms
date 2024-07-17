@@ -1,3 +1,6 @@
+
+![og dsa - Copy](https://github.com/user-attachments/assets/3672ce61-8a94-43b5-a60a-f250f79f3f94)
+
 <h1>Binary Search Algorithm</h1>
     <h2>Introduction</h2>
     <p>Binary search is an efficient algorithm used to find the position of a target value within a sorted array. The algorithm works by repeatedly dividing the search interval in half. If the target value is less than the value in the middle of the interval, the search continues in the lower half, or if the target value is greater, it continues in the upper half. This process repeats until the target value is found or the interval is empty.</p>
